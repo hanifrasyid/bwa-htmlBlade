@@ -1,0 +1,1 @@
+alert('anda adalah akun premium!');
